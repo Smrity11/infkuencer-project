@@ -271,8 +271,11 @@ body{
     .section4-btn>button{
         margin: 0 auto;
     }
+    .section4-img{
+        width: 100%;
+    }
     .section4-img>img{
-        width: 500px;
+        width:100%;
     }
     .section4-text>h2{
         font-size: 43px;
