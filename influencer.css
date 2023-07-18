@@ -261,7 +261,7 @@ body{
     /*  */
     .section4{
         flex-direction: column-reverse;
-        padding: 100px 10px;
+        padding: 100px 5px;
         text-align: center;
         gap: 40px;
     }
@@ -272,7 +272,7 @@ body{
         margin: 0 auto;
     }
     .section4-img{
-        width: 100%;
+        width: 95%;
     }
     .section4-img>img{
         width:100%;
